@@ -31,3 +31,7 @@ We ensured that all plots are updated dynamically each time a new sample is sele
 **6 - Deploying the dashboard**
 
 We deployed the dashboard using GitHub where the code reads the data file and dynamically populates the page using Plotly when a sample is selected in the dropdown menu.
+
+### Dashboard
+
+[https://flobeep.github.io/belly-button-challenge/]()
